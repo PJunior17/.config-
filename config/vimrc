@@ -1,0 +1,9 @@
+set relativenumber    "relative number to the cursor
+set autoindent
+set expandtab
+set smarttab
+set tabstop=4
+set shiftwidth=4
+
+syntax on
+set cindent
